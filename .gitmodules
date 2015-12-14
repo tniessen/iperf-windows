@@ -1,0 +1,4 @@
+[submodule "iperf"]
+	path = iperf
+	url = https://github.com/tniessen/iperf-vsproj
+	branch = vs2013
